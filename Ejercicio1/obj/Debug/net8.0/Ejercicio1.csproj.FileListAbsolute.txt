@@ -1,0 +1,14 @@
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\bin\Debug\net8.0\Ejercicio1.exe
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\bin\Debug\net8.0\Ejercicio1.deps.json
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\bin\Debug\net8.0\Ejercicio1.runtimeconfig.json
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\bin\Debug\net8.0\Ejercicio1.dll
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\bin\Debug\net8.0\Ejercicio1.pdb
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfo.cs
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.dll
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\refint\Ejercicio1.dll
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.pdb
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\Ejercicio1.genruntimeconfig.cache
+D:\Escritorio\ExamenFinal\ExamenFinal1649\Ejercicio1\obj\Debug\net8.0\ref\Ejercicio1.dll
